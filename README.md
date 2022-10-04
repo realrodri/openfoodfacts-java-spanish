@@ -1,3 +1,5 @@
+# PLEASE REFFER TO https://github.com/openfoodfacts/openfoodfacts-java FOR LATEST VERSION (not Spanish one)
+
 # Java Wrapper for OpenFoodFacts
 
 ##### Java (Maven) wrapper for https://world.openfoodfacts.org
@@ -27,3 +29,6 @@ ProductResponse productResponse = wrapper.fetchProductByCode("737628064502");
 
 ## Demo
 Check also [Demo application](https://github.com/openfoodfacts/openfoodfacts-java-demo) how to do it.
+
+## Advisory
+The method .getIngredients() has been overwritten to always return the Spanish variation of the ingredients. If you want the English ones, just use the original repository, dependencies and .jar, but if you ONLY want Spanish ingredients, check Release tab to download the jar.
