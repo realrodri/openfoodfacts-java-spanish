@@ -1,0 +1,15 @@
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/Product.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/NutrientLevels.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/Nutriments.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/Images.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/ProductResponse.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/LanguagesCodes.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/SelectedImages.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/service/OpenFoodFactsWrapper.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/Source.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/Application.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/Ingredient.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/client/OpenFoodFactsApiLowLevelClient.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/service/impl/OpenFoodFactsWrapperImpl.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/SelectedImageItem.java
+/Users/rodrigo/Downloads/openfoodfacts-java-main/src/main/java/pl/coderion/model/SelectedImage.java
