@@ -4,7 +4,7 @@
 
 ##### Java (Maven) wrapper for https://world.openfoodfacts.org
 
-## Current version 0.9.3
+## GitHub's Version: 0.9.3
 
 ## Usage
 
