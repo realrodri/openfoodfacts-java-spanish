@@ -195,7 +195,7 @@ public class Product {
     @JsonProperty("fruits-vegetables-nuts_100g_estimate")
     private int fruitsVegetablesNuts100GEstimate;
 
-    @JsonProperty("generic_name")
+    @JsonProperty("generic_name_es")
     private String genericName;
 
     private String id;
@@ -280,7 +280,7 @@ public class Product {
     @JsonProperty("ingredients_text_debug")
     private String ingredientsTextDebug;
 
-    @JsonProperty("ingredients_text_with_allergens")
+    @JsonProperty("ingredients_text_with_allergens_es")
     private String ingredientsTextWithAllergens;
 
     @JsonProperty("ingredients_that_may_be_from_palm_oil_n")
@@ -487,7 +487,7 @@ public class Product {
     @JsonProperty("producer_version_id")
     private String producerVersionId;
 
-    @JsonProperty("product_name")
+    @JsonProperty("product_name_es")
     private String productName;
 
     @JsonProperty("product_quantity")
